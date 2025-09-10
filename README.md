@@ -42,3 +42,7 @@ Setelah masuk kedalam sistem user akan diberikan pilihan menu seperti dibawah in
    Setelah menambahkan user menambahkan syal, maka user juga dapat melihat hasil dari yang sudah ditambahkan tadi. Lalu dari nomor 1-4 adalah list produk tekstil yang sudah dimasukkan di `ArrayList`.
 
    <img width="374" height="294" alt="image" src="https://github.com/user-attachments/assets/a5b28cd9-f9f0-4a8d-a506-d2ca859b0795" />
+
+3. Update
+
+   Dan ketika user ingin update produk tekstil yang diinginkan isa menggunakan fitur Update
