@@ -17,6 +17,6 @@ Sistem login kedalam Sistem Manajemen Produk Tekstil bisa menggunakan 2 cara yai
 
    <img width="301" height="138" alt="image" src="https://github.com/user-attachments/assets/385fbb47-4992-48ee-939c-dd5dcdeae5e1" />
 
-  Dan jika memilih pilihan registrasi maka sistem akan mengecek apakah username dan password sesuai dengan akun default atau akun baru yang sudah dibuat.
+   Dan jika memilih pilihan registrasi maka sistem akan mengecek apakah username dan password sesuai dengan akun default atau akun baru yang sudah dibuat.
   
-  <img width="696" height="152" alt="image" src="https://github.com/user-attachments/assets/846c2a59-54f8-4e58-831b-f442e09a391d" />
+     <img width="696" height="152" alt="image" src="https://github.com/user-attachments/assets/846c2a59-54f8-4e58-831b-f442e09a391d" />
