@@ -46,12 +46,28 @@ Setelah masuk kedalam sistem user akan diberikan pilihan menu seperti dibawah in
 
 3. Update
 
-   Dan ketika user ingin mengganti produk tekstil yang diinginkan bisa menggunakan fitur Update. Yang dimana user mengganti produk no 1 menjadi Rok.
+   Dan ketika user ingin mengganti produk tekstil yang diinginkan bisa menggunakan fitur Update. Yang dimana user mengganti produk Pakaian menjadi Rok.
 
    <img width="403" height="361" alt="image" src="https://github.com/user-attachments/assets/fe0069c2-fa8d-4402-aeb9-74d13f86a73e" />
 
    Ketika sudah diganti dapat dilihat kembali menggunakan fitur **Lihat Produk**.
 
    <img width="368" height="293" alt="image" src="https://github.com/user-attachments/assets/b60a4aee-5576-43f4-8165-c184f360220a" />
+
+4. Delete
+
+   Dan user juga dapat menghapus produk yang diinginkan, misalnya disini user menghapus Celana Jeans.
+
+   <img width="375" height="333" alt="image" src="https://github.com/user-attachments/assets/299b4eaa-b858-4cf3-b6fe-d8531a884265" />
+
+   Ketika sudah diganti dapat dilihat kembali menggunakan fitur **Lihat Produk**.
+
+   <img width="376" height="275" alt="image" src="https://github.com/user-attachments/assets/fd8cab57-1d5e-4def-9f64-1f9ece9fb5cc" />
+
+5. Out
+
+   Dan ketika user sudah tidak ingin lagi menggunakan sistem, maka user dapat memilih fitur **Keluar**.
+
+   <img width="672" height="293" alt="image" src="https://github.com/user-attachments/assets/6977089b-7f8d-4b05-9b5b-8465137a0620" />
 
 
