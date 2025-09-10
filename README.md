@@ -1,10 +1,10 @@
-# Post Test 1 - PBO
+# **Post Test 1 - PBO**
 Nurhidayah_002
 
-# Deskripsi Program
+# **Deskripsi Program**
 Program Sistem Manajemen Produk Tekstil ini dibuat menggunakan bahasa pemrograman Java dengan memanfaatkan ArrayList dan Scanner untuk mengelola data produk tekstil. Program ini memiliki dua fitur utama, yaitu Login & Registrasi Akun serta CRUD (Create, Read, Update, Delete) Produk Tekstil.
 
-# Fitur Login dan Registrasi
+# **Fitur Login dan Registrasi**
 Sistem login kedalam Sistem Manajemen Produk Tekstil bisa menggunakan 2 cara yaitu dengan login dan registrasi.
 
 <img width="130" height="46" alt="image" src="https://github.com/user-attachments/assets/16471793-b824-4205-8850-7959b5868a7c" />
@@ -13,7 +13,7 @@ Sistem login kedalam Sistem Manajemen Produk Tekstil bisa menggunakan 2 cara yai
 
    <img width="695" height="154" alt="image" src="https://github.com/user-attachments/assets/e35e5f1f-5294-46b1-a116-03401a0dc015" />
 
-3. Adapun registrasi jika ingin menambahkan akun baru, yang dimana user dapat membuat username dan password baru, dan akun yang terdaftar akan disimpan dalam ArrayList daftarUsername dan ArrayList daftarPassword.
+3. Adapun registrasi jika ingin menambahkan akun baru, yang dimana user dapat membuat username dan password baru, dan akun yang terdaftar akan disimpan dalam 'ArrayList' 'daftarUsername' dan 'ArrayList' 'daftarPassword'.
 
    <img width="301" height="138" alt="image" src="https://github.com/user-attachments/assets/385fbb47-4992-48ee-939c-dd5dcdeae5e1" />
 
