@@ -1,5 +1,6 @@
 # **Post Test 1 - PBO**
-Nurhidayah_002
+Nurhidayah
+2409116002
 
 ## **Deskripsi Program**
 Program Sistem Manajemen Produk Tekstil ini dibuat menggunakan bahasa pemrograman Java dengan memanfaatkan ArrayList dan Scanner untuk mengelola data produk tekstil. Program ini memiliki dua fitur utama, yaitu Login & Registrasi Akun serta CRUD (Create, Read, Update, Delete) Produk Tekstil.
