@@ -8,7 +8,7 @@ Program Sistem Manajemen Produk Tekstil ini dibuat menggunakan bahasa pemrograma
   1. Akun Default
      - Username: ayawWw
      - Password: 088022
-     Akun ini sudah dibuat sejak awal agar user bisa langsung masuk jika          memilih menu login.
+     Akun ini sudah dibuat sejak awal agar user bisa langsung masuk jika memilih menu login.
   2. Registrasi Akun Baru
      User dapat membuat username dan password baru, dan akun yang terdaftar akan disimpan dalam ArrayList daftarUsername dan ArrayList daftarPassword.
   4. Login Sistem
