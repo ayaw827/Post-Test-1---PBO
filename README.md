@@ -13,7 +13,7 @@ Sistem login kedalam Sistem Manajemen Produk Tekstil bisa menggunakan 2 cara yai
 
    <img width="695" height="154" alt="image" src="https://github.com/user-attachments/assets/e35e5f1f-5294-46b1-a116-03401a0dc015" />
 
-3. Adapun registrasi jika ingin menambahkan akun baru, yang dimana user dapat membuat username dan password baru, dan akun yang terdaftar akan disimpan dalam 'ArrayList' 'daftarUsername' dan 'ArrayList' 'daftarPassword'.
+3. Adapun registrasi jika ingin menambahkan akun baru, yang dimana user dapat membuat username dan password baru, dan akun yang terdaftar akan disimpan dalam `ArrayList` `daftarUsername` dan `ArrayList` `daftarPassword`.
 
    <img width="301" height="138" alt="image" src="https://github.com/user-attachments/assets/385fbb47-4992-48ee-939c-dd5dcdeae5e1" />
 
