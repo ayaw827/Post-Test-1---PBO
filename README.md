@@ -7,10 +7,9 @@ Program Sistem Manajemen Produk Tekstil ini dibuat menggunakan bahasa pemrograma
 # Fitur Login dan Registrasi
   1. Sistem login kedalam Sistem Manajemen Produk Tekstil bisa menggunakan 2 cara yaitu dengan login dan registrasi.
      <img width="130" height="46" alt="image" src="https://github.com/user-attachments/assets/16471793-b824-4205-8850-7959b5868a7c" />
-
-     a. Login menggunakan akun yang telah disediakan sistem yaitu dengan memasukkan username dan password seperti gambar dibawah ini. Akun ini sudah dibuat sejak awal agar user bisa langsung masuk jika memilih menu login.
+     - Login menggunakan akun yang telah disediakan sistem yaitu dengan memasukkan username dan password seperti gambar dibawah ini. Akun ini sudah dibuat sejak awal agar user bisa langsung masuk jika memilih menu login.
      <img width="695" height="154" alt="image" src="https://github.com/user-attachments/assets/e35e5f1f-5294-46b1-a116-03401a0dc015" />
-     b. Adapun registrasi jika ingin menambahkan akun baru, yang dimana user dapat membuat username dan password baru,
+     - Adapun registrasi jika ingin menambahkan akun baru, yang dimana user dapat membuat username dan password baru,
      <img width="283" height="125" alt="image" src="https://github.com/user-attachments/assets/d6e6540d-c757-4aa4-a815-ea61f9d041e2" />
      Dan akun yang terdaftar akan disimpan dalam ArrayList daftarUsername dan ArrayList daftarPassword.
 
