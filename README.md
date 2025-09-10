@@ -40,10 +40,18 @@ Setelah masuk kedalam sistem user akan diberikan pilihan menu seperti dibawah in
 
 2. Read
 
-   Setelah menambahkan user menambahkan syal, maka user juga dapat melihat hasil dari yang sudah ditambahkan tadi. Lalu dari nomor 1-4 adalah list produk tekstil yang sudah dimasukkan di `ArrayList`.
+   Setelah user menambahkan syal, maka user juga dapat melihat hasil dari yang sudah ditambahkan tadi dengan menggunakan fitur **Lihat Produk**. Sedangkan nomor 1-4 adalah list produk tekstil yang sudah dimasukkan di `ArrayList`.
 
    <img width="374" height="294" alt="image" src="https://github.com/user-attachments/assets/a5b28cd9-f9f0-4a8d-a506-d2ca859b0795" />
 
 3. Update
 
-   Dan ketika user ingin update produk tekstil yang diinginkan isa menggunakan fitur Update
+   Dan ketika user ingin mengganti produk tekstil yang diinginkan bisa menggunakan fitur Update. Yang dimana user mengganti produk no 1 menjadi Rok.
+
+   <img width="403" height="361" alt="image" src="https://github.com/user-attachments/assets/fe0069c2-fa8d-4402-aeb9-74d13f86a73e" />
+
+   Ketika sudah diganti dapat dilihat kembali menggunakan fitur **Lihat Produk**.
+
+   <img width="368" height="293" alt="image" src="https://github.com/user-attachments/assets/b60a4aee-5576-43f4-8165-c184f360220a" />
+
+
